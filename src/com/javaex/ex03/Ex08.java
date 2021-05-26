@@ -43,6 +43,10 @@ public class Ex08 {
 			{System.out.println("홀수입니다.");}
 		}
 		
+	
+		
+		
+		
 		else if(a==0) {
 			System.out.println("0입니다.");
 		}
