@@ -1,4 +1,4 @@
-package com.java.ex05;
+package com.javaex.ex05;
 
 public class Ex04 {
 
