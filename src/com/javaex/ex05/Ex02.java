@@ -5,7 +5,7 @@ public class Ex02 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int[] no = new int[6];	//갯수
+		int[] no = new int[6];	//갯수 지정
 		/*
 		no[0] = (int)(Math.random()*45)+1;
 		no[1] = (int)(Math.random()*45)+1;
@@ -15,7 +15,7 @@ public class Ex02 {
 		no[5] = (int)(Math.random()*45)+1;
 		*/
 		
-		for(int i=0; i<6; i++) {
+		for(int i=0; i<6; i++) {	//밸류 입력(한번에)
 			no[i] = (int)(Math.random()*45)+1;
 		}
 		
@@ -28,7 +28,7 @@ public class Ex02 {
 		System.out.println(no[5]);
 		*/
 	
-		for(int i=0; i<6; i++) {
+		for(int i=0; i<6; i++) {	//표출 (한번에)
 			System.out.println(no[i]);
 		}
 	
